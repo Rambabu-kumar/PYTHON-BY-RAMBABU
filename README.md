@@ -37,7 +37,3 @@ print("Mul=",a*b)
 print("Div=",a/b)
 print("Mod=",a%b)
 
-⭐4
-#WAP TO 
-
-
