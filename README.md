@@ -28,31 +28,26 @@ print("hello world")
 
 ⭐2
 #WAP TO PRINT ADD SUM MUL DIV AND MOD
-
-#WAP TO PRINT ADD SUM MUL DIV AND MOD 
-
-print("WELCOME TO PYTHON ")
-a=10
-b=20
-print("Sum=",a+b)
-print("Sub=",a-b)
-print("Mul=",a*b)
-print("Div=",a/b)
-print("Mod=",a%b)
+<br>
+print("WELCOME TO PYTHON ")  <br>
+a=10  <br>
+b=20  <br>
+print("Sum=",a+b)  <br>
+print("Sub=",a-b)  <br>
+print("Mul=",a*b)  <br>
+print("Div=",a/b)  <br>
+print("Mod=",a%b)  <br>
 
 ⭐3
 #WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
-
-#WAP TO PRINT ADD SUM MUL DIV AND MOD 
-
-a=int(input("Enter first no=\n"))
-b=int(input("Enter second no=\n"))
-
-print("Sum=",a+b)
-print("Sub=",a-b)
-print("Mul=",a*b)
-print("Div=",a/b)
-print("Mod=",a%b)
+ <br><br>
+a=int(input("Enter first no=\n"))  <br>
+b=int(input("Enter second no=\n"))  <br>
+<br>
+print("Sum=",a+b)  <br>
+print("Sub=",a-b)  <br>
+print("Mul=",a*b)  <br>
+print("Div=",a/b)  <br>
+print("Mod=",a%b)  <br>
 
 
-welcome to my class 
