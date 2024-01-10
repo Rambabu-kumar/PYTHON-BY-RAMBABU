@@ -50,6 +50,7 @@ print("Mul=",a*b)  <br>
 print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
+
 ⭐4<br>
 #WAP TO PRINT AREA OF TRIANGLE  <br>
 print("WELCOME TO PYTHON");  <br>
@@ -58,4 +59,5 @@ hight=int(input("Enter height"))  <br>
 area=0.5*base*hight  <br>
 print("Area of trangal\n=",area)  <br>
 
+⭐5<br>
 
