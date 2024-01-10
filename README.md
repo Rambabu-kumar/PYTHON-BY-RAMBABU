@@ -1,23 +1,23 @@
 1`# 🌹PYTHON BY RAMBABU🌹
-
-🎭🎭🎭 MY FRIEND'S 🎭🎭🎭
-     WELCOME TO PYTHON
+<br>
+🎭🎭🎭 MY FRIEND'S 🎭🎭🎭<br>
+     WELCOME TO PYTHON <br>
        ❤️ SHARMA JI  <br>
-       ❤️ NIKHIL
-       ❤️ PRIYANKA
-       ❤️ MUSKAN
-       ❤️ PAYAL
-       ❤️ JYOTI
-       ❤️ ZUGNU
-       ❤️ NEHA
-       ❤️ SARFARAZ
-       ❤️ PINKI
-       ❤️ SONAM
-       ❤️ RAJESH
-       ❤️ KARUNANIDHI
-       ❤️ MUNN
-       ❤️ ROHIT
-       ❤️ 
+       ❤️ NIKHIL     <br>
+       ❤️ PRIYANKA     <br>
+       ❤️ MUSKAN      <br>
+       ❤️ PAYAL       <br>
+       ❤️ JYOTI        <br>
+       ❤️ ZUGNU        <br>
+       ❤️ NEHA         <br>
+       ❤️ SARFARAZ     <br>
+       ❤️ PINKI        <br>
+       ❤️ SONAM         <br>
+       ❤️ RAJESH        <br>
+       ❤️ KARUNANIDHI    <br>
+       ❤️ MUNN         <br>
+       ❤️ ROHIT        <br>
+       ❤️               <br>
  
 ⭐1
 #WAP TO PRINT HELLO WORLD
