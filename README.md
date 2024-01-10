@@ -60,4 +60,15 @@ area=0.5*base*hight  <br>
 print("Area of trangal\n=",area)  <br>
 
 ⭐5<br>
+#WAP TO INPUT MARLS OF FIVE SUBJECT LIKE MATH,PHYSICS,CHEMISTRY,EMGLISH,AND FIND AVERAGE 
+print("WELCOME TO PYTHON")
+p=int(input("Enter marks of physics =\n"))
+c=int(input("Enter marks of chemistry =\n"))
+m=int(input("Enter marks of math =\n"))
+h=int(input("Enter marks of hindi =\n"))
+e=int(input("Enter marks of english =\n"))
+total=p+c+m+h+e
+print("TOTAL MARKS =\t",total)
+ave=total/5
+print("AVERAJE MARKS=\t",ave)
 
