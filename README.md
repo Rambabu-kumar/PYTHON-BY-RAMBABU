@@ -72,3 +72,15 @@ print("TOTAL MARKS =\t",total)  <br>
 ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
 
+⭐ 
+WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN
+<br>
+ram_age = int(input("Enter Ram's age: "))  <br>
+mohan_age = int(input("Enter Mohan's age: "))  <br>
+
+if ram_age > mohan_age:  <br>
+    print("Ram is older than Mohan.") <br>
+elif ram_age < mohan_age:  <br>
+    print("Mohan is older than Ram.")  <br>
+else:  <br>
+    print("Ram and Mohan are of the same age.")  <br>
