@@ -1,7 +1,7 @@
 1 # 🌹PYTHON BY RAMBABU🌹
 <br>
-🎭🎭🎭 MY FRIEND'S 🎭🎭🎭<br>
-     WELCOME TO PYTHON <br>
+<b>🎭🎭🎭 MY FRIEND'S 🎭🎭🎭<b>
+<b     WELCOME TO PYTHON <br>
        ❤️ SHARMA JI  <br>
        ❤️ NIKHIL     <br>
        ❤️ PRIYANKA     <br>
@@ -19,15 +19,15 @@
        ❤️ ROHIT        <br>
        ❤️               <br>
  
-⭐1
-#WAP TO PRINT HELLO WORLD
+<b>⭐1
+#WAP TO PRINT HELLO WORLD</b>
 
 print("hello world")
 
 
 
-⭐2
-#WAP TO PRINT ADD SUM MUL DIV AND MOD
+<b>⭐2
+#WAP TO PRINT ADD SUM MUL DIV AND MOD</b>
 <br>
 print("WELCOME TO PYTHON ")  <br>
 a=10  <br>
@@ -38,8 +38,8 @@ print("Mul=",a*b)  <br>
 print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
-⭐3
-#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
+<b>⭐3
+#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD</b>
  <br><br>
 a=int(input("Enter first no=\n"))  <br>
 b=int(input("Enter second no=\n"))  <br>
@@ -51,8 +51,8 @@ print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
 
-⭐4<br>
-#WAP TO PRINT AREA OF TRIANGLE  <br>
+<b>⭐4<br>
+#WAP TO PRINT AREA OF TRIANGLE </b> <br>
 print("WELCOME TO PYTHON");  <br>
 base=int(input("Enter base=\n"))  <br>
 hight=int(input("Enter height"))  <br>
