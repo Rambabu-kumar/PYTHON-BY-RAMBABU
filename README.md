@@ -87,3 +87,14 @@ else:  <br>
     print("Ram and Mohan are of the same age.")  <br>
 
 
+
+
+# Get user input for the number. 
+<br>num = int(input("Enter a number: "))
+
+# Check if the number is even or odd
+if num%2==0:
+    print("The number is even.")
+else:
+    print("The number is odd.")
+
