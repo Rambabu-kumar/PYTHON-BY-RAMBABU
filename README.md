@@ -2,7 +2,7 @@
 </h3>
 <hr>
 <b>🎭🎭🎭 MY FRIEND'S 🎭🎭🎭<b>
-<b     WELCOME TO PYTHON <br>
+<b     WELCOME TO PYTHON <br><br>
        ❤️ SHARMA JI  <br>
        ❤️ NIKHIL     <br>
        ❤️ PRIYA     <br>
@@ -97,7 +97,7 @@ print("TOTAL MARKS =\t",total)  <br>
 ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
 
-⭐ 8
+⭐ 8. <br> 
 #WAP TO PRINT SIMPLE INTEREST
 p=int(input("Enter Principle=\t"));
 r=int(input("Enter rate of interest=\t"));
