@@ -6,19 +6,19 @@
        ❤️ SHARMA JI  <br>
        ❤️ NIKHIL     <br>
        ❤️ PRIYA     <br>
-       ❤️ MUSKAN      <br>
-       ❤️ PAYAL       <br>
-       ❤️ JYOTI        <br>
-       ❤️ ZUGNU        <br>
-       ❤️ NEHA         <br>
-       ❤️ SARFARAZ     <br>
-       ❤️ PINKI        <br>
-       ❤️ SONAM         <br>
-       ❤️ RAJESH        <br>
+       ❤️ MUSKAN    <br>
+       ❤️ PAYAL     <br>
+       ❤️ JYOTI     <br>
+       ❤️ ZUGNU     <br>
+       ❤️ NEHA      <br>
+       ❤️ SARFAR    <br>
+       ❤️ PINKI     <br>
+       ❤️ SONAM     <br>
+       ❤️ RAJESH    <br>
        ❤️ KARUNANIDHI    <br>
-       ❤️ MUNN         <br>
-       ❤️ ROHIT        <br>
-       ❤️               <br>
+       ❤️ MUNN      <br>
+       ❤️ ROHIT     <br>
+       ❤️           <br>
  
 
 <hr><hr>
@@ -98,64 +98,58 @@ ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
 
 ⭐ 8. <br> 
-#WAP TO PRINT SIMPLE INTEREST
-p=int(input("Enter Principle=\t"));
-r=int(input("Enter rate of interest=\t"));
-t=int(input("Enter Time=\t"))
-si=(p*r*t)/100;
-print("Simple interest=\n",si)
+#WAP TO PRINT SIMPLE INTEREST  <br>
+p=int(input("Enter Principle=\t"));  <br>
+r=int(input("Enter rate of  interest=\t"));  <br>
+t=int(input("Enter Time=\t"))  <br>
+si=(p*r*t)/100;  <br>
+print("Simple interest=\n",si)  <br>
 
 
-⭐ 9
-#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 1
-a=20
-b=50
-print("Before swapping a=\t"a)
-print("Before swapping b=\t"b)
-c=a;
-a=b;
-b=c;
-print("After swapping a=\t",a)
-print("After swapping b=\t",b)
+⭐ 9  <br>
+#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 1  <br>
+a=20  <br>
+b=50  <br>
+print("Before swapping a=\t"a)  <br>
+print("Before swapping b=\t"b)  <br>
+c=a;  <br>
+a=b;  <br>
+b=c;  <br>
+print("After swapping a=\t",a)  <br>
+print("After swapping b=\t",b)  <br>
 
 
-⭐10
-#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 2
-a=20
-b=50
-print("Before swapping a=20")
-print("Before swapping b=50")
-c=a+b;
-a=c-a;
-b=c-b;
-print("After swapping a=\t",a)
-print("After swapping b=\t",b)
+⭐10  <br>
+#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 2  <br>
+a=20  <br>
+b=50  <br>
+print("Before swapping a=20")  <br>
+print("Before swapping b=50")  <br>
+c=a+b;  <br>
+a=c-a;  <br>
+b=c-b;  <br>
+print("After swapping a=\t",a)  <br>
+print("After swapping b=\t",b)  <br>
 
 
-⭐11
-#WAP TO PRINT SWAPPING OF TWO NUMBER WITHOUT THIRD VARIABLE
-a=20
-b=50
-print("Before swapping a=20")
-print("Before swapping b=50")
-a=a+b;
-b=a-b;
-a=a-b;
-print("After swapping a=\t",a)
-print("After swapping b=\t",b)
-
-
-
+⭐11  <br>
+#WAP TO PRINT SWAPPING OF TWO NUMBER   WITHOUT THIRD VARIABLE  <br>
+a=20  <br>
+b=50  <br>
+print("Before swapping a=20")  <br>
+print("Before swapping b=50")  <br>
+a=a+b;  <br>
+b=a-b;  <br>
+a=a-b;  <br>
+print("After swapping a=\t",a)  <br>
+print("After swapping b=\t",b)  <br>
 
 <hr><hr>
 #IF ELSE PROGRAM IN PYTHON
 <hr><hr>
 
-
-
-⭐ 
-<b>#WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN</b>
-<br>
+⭐ 1<br>
+#WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN  <br>
 ram_age = int(input("Enter Ram's age: "))  <br>
 mohan_age = int(input("Enter Mohan's age: "))  <br>
 
@@ -168,13 +162,4 @@ else:  <br>
 
 
 
-
-# Get user input for the number. 
-<br>num = int(input("Enter a number: "))
-
-# Check if the number is even or odd
-if num%2==0:
-    print("The number is even.")
-else:
-    print("The number is odd.")
 
