@@ -106,6 +106,18 @@ si=(p*r*t)/100;
 print("Simple interest=\n",si)
 
 
+⭐ 
+#WAP TO PRINT SWAPPING METHORD 1
+a=20
+b=50
+print("Before swapping")
+c=a;
+a=b;
+b=c;
+print("After swapping a=\t",a)
+print("After swapping b=\t",b)
+
+
 <hr><hr>
 #IF ELSE PROGRAM IN PYTHON
 <hr><hr>
