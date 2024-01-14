@@ -44,10 +44,13 @@ print("Mul=",a*b)  <br>
 print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
-<br>⭐3
+<br>⭐3<br>
 #WAP TO PRINT AREA OF RECTANGLE  <br>
-
-
+<br>
+h=int(input("Enter rectangle height=\t"))  <br>
+w=int(input("Enter rectangle width=\t"))  <br>
+are=h*w;  <br>
+print("Area of Rectangle=\n",are)  <br>
 
 
 
