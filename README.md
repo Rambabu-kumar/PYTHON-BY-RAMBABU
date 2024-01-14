@@ -132,6 +132,21 @@ print("After swapping a=\t",a)
 print("After swapping b=\t",b)
 
 
+⭐
+#WAP TO PRINT SWAPPING OF TWO NUMBER WITHOUT THIRD VARIABLE
+a=20
+b=50
+print("Before swapping a=20")
+print("Before swapping b=50")
+a=a+b;
+b=a-b;
+a=a-b;
+print("After swapping a=\t",a)
+print("After swapping b=\t",b)
+
+
+
+
 <hr><hr>
 #IF ELSE PROGRAM IN PYTHON
 <hr><hr>
