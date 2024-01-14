@@ -81,6 +81,14 @@ hight=int(input("Enter height"))  <br>
 area=0.5*base*hight  <br>
 print("Area of trangal\n=",area)  <br>
 
+⭐
+#WAP TO PRINT AREA OF TRANGLE
+b=int(input("Enter base of triangle=\t"));
+h=int(input("Enter height of triangle=\t"));
+
+area=0.5*b*h;
+print("Area of Triangle=\n",area)
+
 ⭐5<br>
 #WAP TO INPUT MARLS OF FIVE SUBJECT LIKE MATH,PHYSICS,CHEMISTRY,EMGLISH,AND FIND AVERAGE  <br>
 print("WELCOME TO PYTHON")  <br>
