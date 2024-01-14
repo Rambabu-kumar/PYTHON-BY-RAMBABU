@@ -159,6 +159,16 @@ print("After swapping b=\t",b)  <br>
 #IF ELSE PROGRAM IN PYTHON
 <hr><hr>
 
+⭐<br>
+#WAP TO PRINT GREATER VALUE IN TWO NO  <br>
+f=int(input("Enter first no=\t"))  <br>
+s=int(input("Enter second no=\t"))  <br>
+if f>s:  <br>
+	print("First no is greater value=\n",f)  <br>
+else:  <br>
+		print("Second no is greater value=\n",s)  <br>
+
+
 ⭐1  <br>
 #WAP TO CHEACK ANY NO EVEN OR ODD  <br>
 no=int(input("Enter any no"))  <br>
