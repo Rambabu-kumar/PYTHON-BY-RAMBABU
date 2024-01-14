@@ -73,13 +73,15 @@ print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
 
-<b>⭐4<br>
+<b>⭐<br>
 #WAP TO PRINT AREA OF TRIANGLE </b> <br>
 print("WELCOME TO PYTHON");  <br>
 base=int(input("Enter base=\n"))  <br>
 hight=int(input("Enter height"))  <br>
 area=0.5*base*hight  <br>
 print("Area of trangal\n=",area)  <br>
+
+
 
 ⭐
 #WAP TO PRINT AREA OF TRANGLE
