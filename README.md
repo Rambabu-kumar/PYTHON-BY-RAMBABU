@@ -107,7 +107,7 @@ print("Simple interest=\n",si)
 
 
 ⭐ 
-#WAP TO PRINT SWAPPING METHORD 1
+#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 1
 a=20
 b=50
 print("Before swapping a=\t"a)
@@ -120,7 +120,7 @@ print("After swapping b=\t",b)
 
 
 ⭐
-#WAP TO PRINT SWAPPING METHORD 1
+#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 2
 a=20
 b=50
 print("Before swapping a=20")
