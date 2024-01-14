@@ -44,6 +44,20 @@ print("Mul=",a*b)  <br>
 print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
+⭐5
+#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
+ <br><br>
+a=int(input("Enter first no=\n"))  <br>
+b=int(input("Enter second no=\n"))  <br>
+<br>
+print("Sum=",a+b)  <br>
+print("Sub=",a-b)  <br>
+print("Mul=",a*b)  <br>
+print("Div=",a/b)  <br>
+print("Mod=",a%b)  <br>
+
+
+
 <br>⭐3<br>
 #WAP TO PRINT AREA OF RECTANGLE  <br>
 <br>
@@ -59,18 +73,6 @@ area=3.14*r*r;  <br>
 print("Area of circle=\n",area)  <br>
 
 
-
-⭐5
-#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
- <br><br>
-a=int(input("Enter first no=\n"))  <br>
-b=int(input("Enter second no=\n"))  <br>
-<br>
-print("Sum=",a+b)  <br>
-print("Sub=",a-b)  <br>
-print("Mul=",a*b)  <br>
-print("Div=",a/b)  <br>
-print("Mod=",a%b)  <br>
 
 
 <b>⭐<br>
