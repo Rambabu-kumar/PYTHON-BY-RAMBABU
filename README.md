@@ -22,7 +22,6 @@
  
 
 <hr><hr>
-
 #BASICK PROGRAM OF PYTHON
 <hr><hr>
 <b>⭐1
@@ -85,7 +84,7 @@ print("Area of trangal\n=",area)  <br>
 
 
 
-⭐<br>
+⭐7<br>
 #WAP TO INPUT MARLS OF FIVE SUBJECT LIKE MATH,PHYSICS,CHEMISTRY,EMGLISH,AND FIND AVERAGE  <br>
 print("WELCOME TO PYTHON")  <br>
 p=int(input("Enter marks of physics =\n"))  <br>
@@ -97,6 +96,13 @@ total=p+c+m+h+e  <br>
 print("TOTAL MARKS =\t",total)  <br>
 ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
+
+
+<hr><hr>
+#IF ELSE PROGRAM IN PYTHON
+<hr><hr>
+
+
 
 ⭐ 
 <b>#WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN</b>
