@@ -97,7 +97,7 @@ print("TOTAL MARKS =\t",total)  <br>
 ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
 
-⭐ 
+⭐ 8
 #WAP TO PRINT SIMPLE INTEREST
 p=int(input("Enter Principle=\t"));
 r=int(input("Enter rate of interest=\t"));
@@ -106,7 +106,7 @@ si=(p*r*t)/100;
 print("Simple interest=\n",si)
 
 
-⭐ 
+⭐ 9
 #WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 1
 a=20
 b=50
@@ -119,7 +119,7 @@ print("After swapping a=\t",a)
 print("After swapping b=\t",b)
 
 
-⭐
+⭐10
 #WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 2
 a=20
 b=50
@@ -132,7 +132,7 @@ print("After swapping a=\t",a)
 print("After swapping b=\t",b)
 
 
-⭐
+⭐11
 #WAP TO PRINT SWAPPING OF TWO NUMBER WITHOUT THIRD VARIABLE
 a=20
 b=50
