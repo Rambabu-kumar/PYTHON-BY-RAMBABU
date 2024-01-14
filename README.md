@@ -110,10 +110,24 @@ print("Simple interest=\n",si)
 #WAP TO PRINT SWAPPING METHORD 1
 a=20
 b=50
-print("Before swapping")
+print("Before swapping a=\t"a)
+print("Before swapping b=\t"b)
 c=a;
 a=b;
 b=c;
+print("After swapping a=\t",a)
+print("After swapping b=\t",b)
+
+
+⭐
+#WAP TO PRINT SWAPPING METHORD 1
+a=20
+b=50
+print("Before swapping a=20")
+print("Before swapping b=50")
+c=a+b;
+a=c-a;
+b=c-b;
 print("After swapping a=\t",a)
 print("After swapping b=\t",b)
 
