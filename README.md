@@ -97,6 +97,14 @@ print("TOTAL MARKS =\t",total)  <br>
 ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
 
+⭐ 
+#WAP TO PRINT SIMPLE INTEREST
+p=int(input("Enter Principle=\t"));
+r=int(input("Enter rate of interest=\t"));
+t=int(input("Enter Time=\t"))
+si=(p*r*t)/100;
+print("Simple interest=\n",si)
+
 
 <hr><hr>
 #IF ELSE PROGRAM IN PYTHON
