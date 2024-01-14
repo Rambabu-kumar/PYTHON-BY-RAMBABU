@@ -144,9 +144,29 @@ a=a-b;  <br>
 print("After swapping a=\t",a)  <br>
 print("After swapping b=\t",b)  <br>
 
+
+
+
+
+
+
+
+
+
+
+
 <hr><hr>
 #IF ELSE PROGRAM IN PYTHON
 <hr><hr>
+
+⭐1  <br>
+#WAP TO CHEACK ANY NO EVEN OR ODD  <br>
+no=int(input("Enter any no"))  <br>
+if no%2==0:  <br>
+print("This no is even")  <br>
+else:  <br>
+print("This no is odd")  <br>
+
 
 ⭐ 1<br>
 #WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN  <br>
