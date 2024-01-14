@@ -5,7 +5,7 @@
 <b     WELCOME TO PYTHON <br>
        ❤️ SHARMA JI  <br>
        ❤️ NIKHIL     <br>
-       ❤️ PRIYANKA     <br>
+       ❤️ PRIYA     <br>
        ❤️ MUSKAN      <br>
        ❤️ PAYAL       <br>
        ❤️ JYOTI        <br>
