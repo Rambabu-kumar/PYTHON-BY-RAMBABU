@@ -44,8 +44,17 @@ print("Mul=",a*b)  <br>
 print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
-<b>⭐3
-#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD</b>
+<br>⭐3
+#WAP TO PRINT AREA OF RECTANGLE  <br>
+
+
+
+
+
+
+
+⭐3
+#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
  <br><br>
 a=int(input("Enter first no=\n"))  <br>
 b=int(input("Enter second no=\n"))  <br>
