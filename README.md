@@ -193,3 +193,17 @@ else:  <br>
 
 
 
+<hr><hr>
+from turtle import*
+color("darkred", "aqua")
+bgcolor("white")
+speed(0.5)
+pensize(0.5)
+begin_fill()
+while True:
+	forward(600)
+	right(170)
+	if abs(pos()) < 5:
+		end_f
+		done()
+<hr><hr>
