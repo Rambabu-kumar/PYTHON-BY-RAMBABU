@@ -18,7 +18,7 @@
        ❤️ KARUNANIDHI    <br>
        ❤️ MUNN      <br>
        ❤️ ROHIT     <br>
-       ❤️           <br>
+           
  
 
 <hr><hr<h2>
@@ -164,10 +164,25 @@ print("After swapping a=\t",a)  <br>
 print("After swapping b=\t",b)  <br>
 
 
+<hr><hr>
+IF , IF ELSE , NESTED IF
+<hr><hr>
 
-
-
-
+🕯️1		=> GREATER VALUE IN 2 NUMBER
+🕯️2		=> GREATER VALUE IN 3 NUMBER USING IF STATEMENT
+🕯️3		=> CHECK GIVEN NUMBER IS POSITIVE OR NEGATIVE OR ZERO 
+🕯️4		=> SHOW RESULT ACCORDING TO PERCENT USING IF STATEMENT
+🕯️5		=> EVEN OR ODD PROGRAM
+🕯️6		=> VOTING PROGRAM
+🕯️7		=> CHEACK CHARACTER IS VOWEL OR CONSONENT
+🕯️8		=> CHECK ALPHABET IS UPPERCASE OR LOWERCASE
+🕯️9		=> COGIN PROGRAM
+🕯️10		=> CHECK ALPHABET IS UPPERCASE OR LOWERCASE
+🕯️11		=> INPUT THREE ANGLE OF TRANGLE AND CHECK TRANGLELE IS VALID OR NOT
+🕯️12		=> CALCULATE PROFIT AND LOSS  <br>
+🕯️13=>  SHOW RESULT ACCORDING TO PERCENT USING IF ELSE STATEMENT <br>
+🕯️14=> GREATER VALUE IN 3 NO USING IF ELSE STATEMENT  <br>
+🕯️15=> CHECK GIVEN CHARACTER IS ALPHABET OR DIGIT OR SPECIAL SYMBOL  <br>
 
 
 
