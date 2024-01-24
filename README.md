@@ -193,7 +193,7 @@ IF , IF ELSE , NESTED IF
 #IF ELSE PROGRAM IN PYTHON
 <hr><hr>
 
-⭐<br>
+⭐1<br>
 #WAP TO PRINT GREATER VALUE IN TWO NO  <br>
 f=int(input("Enter first no=\t"))  <br>
 s=int(input("Enter second no=\t"))  <br>
@@ -203,7 +203,18 @@ else:  <br>
 		print("Second no is greater value=\n",s)  <br>
 
 
-⭐1  <br>
+
+
+
+
+
+
+
+
+
+
+
+⭐ <br>
 #WAP TO CHEACK ANY NO EVEN OR ODD  <br>
 no=int(input("Enter any no"))  <br>
 if no%2==0:  <br>
