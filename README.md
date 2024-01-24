@@ -203,10 +203,83 @@ else:  <br>
 		print("Second no is greater value=\n",s)  <br>
 
 
+⭐2<br>
+#WAP TO PRINT GREATER VALUE IN 3 NO <br>
+f=int(input("Enter First no=\t"));  <br>
+s=int(input("Enter Second no=\t"));  <br>
+t=int(input("Enter Third no=\t"));  <br>
+if f>s and f>t :  <br>
+	print("First no is greater =\t");  <br>
+elif s>f and s>t :  <br>
+	print("Second no is greater =\t");  <br>
+else:  <br>
+	print("Third no is greater =\t");  <br>
+  <br>
+
+
+⭐3<br>
+#WAP TO CHEACK GIVEN NO IS POSITIVE NEGATIVE OR ZERO
+n=int(input("Enter any no =\t"));
+if n>0 :
+	print("This no is positive ");
+elif n==0:
+	print("This no is zero ");
+else:
+	print("This no is negative")
 
 
 
 
+⭐4<br>
+
+
+
+
+⭐5<br>
+
+
+
+
+⭐6<br>
+
+
+
+
+⭐7<br>
+
+
+
+
+⭐8<br>
+
+
+
+⭐9<br>
+
+
+
+
+⭐10<br>
+
+
+
+
+⭐11<br>
+
+
+
+
+⭐12<br>
+
+
+
+
+⭐13<br>
+
+
+
+
+⭐14<br>
 
 
 
@@ -234,6 +307,107 @@ elif ram_age < mohan_age:  <br>
     print("Mohan is older than Ram.")  <br>
 else:  <br>
     print("Ram and Mohan are of the same age.")  <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
