@@ -231,7 +231,17 @@ else:
 
 
 ⭐4<br>
-
+#WAP TO CHEACK RESULT ACCORDING TO PERCENT USING IF STATEMENT   <br>
+p=int(input("Enter student persent=\t\t"));  <br>
+if p<=100 and p>=60:  <br>
+	print("Welcome to next level")  <br>
+	print("This student is first")  <br>
+elif p<60 and p>=45 :  <br>
+	print("This student is second ")  <br>
+elif p<45 and p>=33:  <br>
+	print("This student is third")  <br>
+elif p<33:  <br>
+	print("Sorry pleayse try next time")  <br>
 
 
 
