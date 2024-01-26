@@ -43,7 +43,8 @@ BASICK PROGRAM LIST IN PYTHON
 <hr><hr>
 #BASICK PROGRAM OF PYTHON
 <hr><hr>
-<b>⭐1
+<
+⭐1
 #WAP TO PRINT HELLO WORLD</b>
 
 print("hello world")
