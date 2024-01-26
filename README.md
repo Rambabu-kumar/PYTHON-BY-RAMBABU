@@ -246,14 +246,12 @@ elif p<33:  <br>
 
 
 ⭐5<br>
-#WAP TO CHECK ALPHABET VOWAL OR CONSONENT
-c=str(input("ENter any alphabet=\t\t"))
-if c=='a' or c=='e' or c=='i' or c=='o' or c=='u' :
-	print("\nThis is vowal")
-elif c=='U' or c=='O' or c=='I' or c=='E' or c=='A' :
-	print("\nThis is vowal")
-else:
-	print("\nThis is consonent")
+#WAP TO CHEACK ANY NO EVEN OR ODD  <br>
+no=int(input("Enter any no"))  <br>
+if no%2==0:  <br>
+print("This no is even")  <br>
+else:  <br>
+print("This no is odd")  <br>
 
 
 
@@ -269,7 +267,14 @@ else:
 
 
 ⭐7<br>
-
+#WAP TO CHECK ALPHABET VOWAL OR CONSONENT
+c=str(input("ENter any alphabet=\t\t"))
+if c=='a' or c=='e' or c=='i' or c=='o' or c=='u' :
+	print("\nThis is vowal")
+elif c=='U' or c=='O' or c=='I' or c=='E' or c=='A' :
+	print("\nThis is vowal")
+else:
+	print("\nThis is consonent")
 
 
 
