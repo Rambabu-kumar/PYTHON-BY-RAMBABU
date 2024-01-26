@@ -176,7 +176,7 @@ IF , IF ELSE , NESTED IF
 🕯️6		=> VOTING PROGRAM  <br>
 🕯️7		=> CHEACK CHARACTER IS VOWEL OR  CONSONENT  <br>
 🕯️8		=> CHECK ALPHABET IS UPPERCASE OR LOWERCASE  <br>
-🕯️9		=> COGIN PROGRAM  <br>
+🕯️9		=> LOGIN PROGRAM  <br>
 🕯️10		=> CHECK ALPHABET IS UPPERCASE OR LOWERCASE  <br>
 🕯️11		=> INPUT THREE ANGLE OF TRANGLE AND CHECK TRANGLELE IS VALID OR NOT  <br>
 🕯️12		=> CALCULATE PROFIT AND LOSS  <br>
@@ -259,7 +259,12 @@ else:
 
 
 ⭐6<br>
-
+#WAP TO CHECK ANY MAN ELIJIBAL TO VOTING
+age=int(input("Enteryout age=\t\t"));
+if age>=18:
+	print("Welcome to voting ")
+else:
+	print("Sorry next time ")
 
 
 
@@ -269,11 +274,32 @@ else:
 
 
 ⭐8<br>
-
+#WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER
+ch=str(input("Enter any alphabet=\t\t"))
+if ch.isupper() :
+	print("This is upper ")
+elif ch.islower() :
+	print("This is lower")
+else:
+	print("This is invaled")
 
 
 ⭐9<br>
-
+#WA LOGIN PROGRAM
+u1=str(input("Enter user name	=\t"));
+p1=int(input("Enter password	=\t"));
+u="rbk";
+p=123;
+if u!=u1 and u==p:
+	print("This invaled username");
+if p!=p1 and u==p1:
+	print("This invaled password");
+if u!=u1 and p!=p1:
+	print("This invaled username and pass");
+if u==u1 and p==p1:
+	print("Welcome to your FB  account");
+else:
+	print("Please try agein");
 
 
 
