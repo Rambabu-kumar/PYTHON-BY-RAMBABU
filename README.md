@@ -279,17 +279,6 @@ else:
 
 
 ⭐8<br>
-#WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER
-ch=str(input("Enter any alphabet=\t\t"))
-if ch.isupper() :
-	print("This is upper ")
-elif ch.islower() :
-	print("This is lower")
-else:
-	print("This is invaled")
-
-
-⭐9<br>
 #WA LOGIN PROGRAM
 u1=str(input("Enter user name	=\t"));
 p1=int(input("Enter password	=\t"));
@@ -308,13 +297,41 @@ else:
 
 
 
-⭐10<br>
+⭐9<br>
+#WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER
+ch=str(input("Enter any alphabet=\t\t"))
+if ch.isupper() :
+	print("This is upper ")
+elif ch.islower() :
+	print("This is lower")
+else:
+	print("This is invaled")
 
+
+
+⭐10<br>
+#WAP TO INPUT 3 ANGLE OF TRANGLE AND CHECK TRANGLE VALID OR NOT
+f=int(input("Enter first angle or trangle=\t\t"));s=int(input("Enter second angle or trangle=\t\t"));
+t=int(input("Enter third angle or trangle=\t\t"));
+total=f+s+t;
+if total==180:
+	print("This trangle is valid ");
+else:
+	print("This trangle is not valid");d
 
 
 
 ⭐11<br>
+#WAP TO CHECK PROFIT OR LOSS
 
+ap=int(input("Enter actual price	=\t\t"));
+sp=int(input("Enter sell price	=\t\t"));
+if sp>ap:
+	pf=sp-ap;
+	print("Profit =\t ",pf);
+else:
+	ls=sp-ap;
+	print("loss =\t ",ls)
 
 
 
@@ -324,11 +341,6 @@ else:
 
 
 ⭐13<br>
-
-
-
-
-⭐14<br>
 
 
 
