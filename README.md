@@ -340,22 +340,13 @@ else:  <br>
 
 
 
-⭐13<br>
+⭐13<b
 
 
 
-
-
-
-
-⭐ <br>
-#WAP TO CHEACK ANY NO EVEN OR ODD  <br>
-no=int(input("Enter any no"))  <br>
-if no%2==0:  <br>
-print("This no is even")  <br>
-else:  <br>
-print("This no is odd")  <br>
-
+<hr><hr>
+WHILE LOOP PROGRAM LIST 
+<hr><hr
 
 ⭐ 1<br>
 #WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN  <br>
