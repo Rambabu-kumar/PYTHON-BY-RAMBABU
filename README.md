@@ -257,82 +257,82 @@ print("This no is odd")  <br>
 
 
 ⭐6<br>
-#WAP TO CHECK ANY MAN ELIJIBAL TO VOTING
-age=int(input("Enteryout age=\t\t"));
-if age>=18:
-	print("Welcome to voting ")
-else:
-	print("Sorry next time ")
+#WAP TO CHECK ANY MAN ELIJIBAL TO VOTING  <br>
+age=int(input("Enteryout age=\t\t"));  <br>
+if age>=18:  <br>
+	print("Welcome to voting ")  <br>
+else:  <br>
+	print("Sorry next time ")  <br>
 
 
 
 ⭐7<br>
-#WAP TO CHECK ALPHABET VOWAL OR CONSONENT
-c=str(input("ENter any alphabet=\t\t"))
-if c=='a' or c=='e' or c=='i' or c=='o' or c=='u' :
-	print("\nThis is vowal")
-elif c=='U' or c=='O' or c=='I' or c=='E' or c=='A' :
-	print("\nThis is vowal")
-else:
-	print("\nThis is consonent")
+#WAP TO CHECK ALPHABET VOWAL OR CONSONENT  <br>
+c=str(input("ENter any alphabet=\t\t"))  <br>
+if c=='a' or c=='e' or c=='i' or c=='o' or c=='u' :  <br>
+	print("\nThis is vowal")  <br>
+elif c=='U' or c=='O' or c=='I' or c=='E' or c=='A' :  <br>
+	print("\nThis is vowal")  <br>
+else:  <br>
+	print("\nThis is consonent")  <br>
+<br>
 
 
-
-⭐8<br>
-#WA LOGIN PROGRAM
-u1=str(input("Enter user name	=\t"));
-p1=int(input("Enter password	=\t"));
-u="rbk";
-p=123;
-if u!=u1 and u==p:
-	print("This invaled username");
-if p!=p1 and u==p1:
-	print("This invaled password");
-if u!=u1 and p!=p1:
-	print("This invaled username and pass");
-if u==u1 and p==p1:
-	print("Welcome to your FB  account");
-else:
-	print("Please try agein");
-
+⭐8<br>  <br>
+#WA LOGIN PROGRAM  <br>
+u1=str(input("Enter user name	=\t"));  <br>
+p1=int(input("Enter password	=\t"));  <br>
+u="rbk";  <br>
+p=123;  <br>
+if u!=u1 and u==p:  <br>
+	print("This invaled username");  <br>
+if p!=p1 and u==p1:  <br>
+	print("This invaled password");  <br>
+if u!=u1 and p!=p1:  <br>
+	print("This invaled username and pass");  <br>
+if u==u1 and p==p1:  <br>
+	print("Welcome to your FB  account");  <br>
+else:  <br>
+	print("Please try agein");  <br>
+<br>
 
 
 ⭐9<br>
-#WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER
-ch=str(input("Enter any alphabet=\t\t"))
-if ch.isupper() :
-	print("This is upper ")
-elif ch.islower() :
-	print("This is lower")
-else:
-	print("This is invaled")
-
+#WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER  <br>
+ch=str(input("Enter any alphabet=\t\t"))  <br>
+if ch.isupper() :  <br>
+	print("This is upper ")  <br>
+elif ch.islower() :  <br>
+	print("This is lower")  <br>
+else:  <br>
+	print("This is invaled")  <br>
+<br>
 
 
 ⭐10<br>
-#WAP TO INPUT 3 ANGLE OF TRANGLE AND CHECK TRANGLE VALID OR NOT
-f=int(input("Enter first angle or trangle=\t\t"));s=int(input("Enter second angle or trangle=\t\t"));
-t=int(input("Enter third angle or trangle=\t\t"));
-total=f+s+t;
-if total==180:
-	print("This trangle is valid ");
-else:
-	print("This trangle is not valid");d
-
+#WAP TO INPUT 3 ANGLE OF TRANGLE AND CHECK TRANGLE VALID OR NOT  <br>
+f=int(input("Enter first angle or trangle=\t\t"));  <br>s=int(input("Enter second angle or trangle=\t\t"));  <br>
+t=int(input("Enter third angle or trangle=\t\t"));  <br>
+total=f+s+t;  <br>
+if total==180:  <br>
+	print("This trangle is valid ");  <br>
+else:  <br>
+	print("This trangle is not valid");  <br>
+  <br>
 
 
 ⭐11<br>
-#WAP TO CHECK PROFIT OR LOSS
-
-ap=int(input("Enter actual price	=\t\t"));
-sp=int(input("Enter sell price	=\t\t"));
-if sp>ap:
-	pf=sp-ap;
-	print("Profit =\t ",pf);
-else:
-	ls=sp-ap;
-	print("loss =\t ",ls)
-
+#WAP TO CHECK PROFIT OR LOSS  <br>
+  <br>
+ap=int(input("Enter actual price	=\t\t"));  <br>
+sp=int(input("Enter sell price	=\t\t"));  <br>
+if sp>ap:  <br>
+	pf=sp-ap;  <br>
+	print("Profit =\t ",pf);  <br>
+else:  <br>
+	ls=sp-ap;  <br>
+	print("loss =\t ",ls)  <br>
+<br>
 
 
 ⭐12<br>
@@ -418,72 +418,17 @@ else:  <br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr><hr>
-from turtle import*
-color("darkred", "aqua")
-bgcolor("white")
-speed(0.5)
-pensize(0.5)
-begin_fill()
-while True:
-	forward(600)
-	right(170)
-	if abs(pos()) < 5:
-		end_f
-		done()
+<hr><hr>  <br>
+from turtle import*  <br>
+color("darkred", "aqua")  <br>
+bgcolor("white")  <br>
+speed(0.5)  <br>
+pensize(0.5)  <br>
+begin_fill()   <br>
+while True:   <br>
+	forward(600)   <br>
+	right(170)   <br>
+	if abs(pos()) < 5:   <br>
+		end_f   <br>
+		done()   <br>
 <hr><hr>
