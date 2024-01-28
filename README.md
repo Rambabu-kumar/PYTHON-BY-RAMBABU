@@ -346,7 +346,101 @@ else:  <br>
 
 <hr><hr>
 WHILE LOOP PROGRAM LIST 
-<hr><hr
+<hr><hr>
+
+
+🕯️1=> 		TABLE OF ONE
+🕯️2=> 		PRINT DIGITS OF INTEGER VALUE IN REVERSE ORDER
+🕯️3=> 		CHECK NUMBER ID PALINDROME OF NOT
+🕯️4=> 		FIND SUM OF DIGITS OF INTEGER VALUE
+🕯️5=> 		FIND MULTIPLICATION OF DIGITS OF INTEGER VALUE 
+🕯️6=> 		PRINT FIRST AND LAST DIGIT OF INTEGET VALUE 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ⭐ 1<br>
 #WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN  <br>
