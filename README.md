@@ -350,6 +350,7 @@ WHILE LOOP PROGRAM LIST
 
 
 🕯️1=> 		TABLE OF ONE  <br>
+
 🕯️2=> 		PRINT DIGITS OF INTEGER VALUE IN REVERSE ORDER  <br>
 🕯️3=> 		CHECK NUMBER ID PALINDROME OF NOT  <br>
 🕯️4=> 		FIND SUM OF DIGITS OF INTEGER VALUE  <br>
@@ -361,12 +362,21 @@ WHILE LOOP PROGRAM LIST
 
 
 
+#WAP TO TABLE OF ONE  
+i=1 
+while i<=10:
+	print(i);
+	i=i+1;
 
 
 
 
-
-
+#WAP TO TABLE OF AMY NO
+n=int(input("Enter any table no=\t"));
+i=1
+while i<=10:
+	print(n,"*",i,"=",i*n);
+	i=i+1
 
 
 
