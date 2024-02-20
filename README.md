@@ -410,6 +410,12 @@ print("The factorial value of no is =\t",f);
 	
 
 
+#wap to print digits of integer value in reverse order no to 1
+n=int(input("Enter any int no=\t"))
+i=n;
+while i>=1:
+     print(i);
+     i=i-1;
 
 
 
