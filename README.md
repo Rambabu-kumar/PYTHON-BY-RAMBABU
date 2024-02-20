@@ -400,7 +400,14 @@ while i<=n:
 
 
 
-
+# wap to  print any no jof factorial
+i=int(input("Enter any no =\n"));
+f=1;
+while i>0:
+	f=f*i;
+	i=i-1;
+print("The factorial value of no is =\t",f);
+	
 
 
 
