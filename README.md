@@ -390,7 +390,13 @@ while i<=10:
 
 
 
-
+# wap to print all even no between 1 to N using while loops
+n=int(input("Enter any no =\n"));
+i=1;
+while i<=n:
+	if i%2==0:
+		print("This is even",i);
+	i=i+1;
 
 
 
