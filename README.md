@@ -372,50 +372,50 @@ WHILE LOOP PROGRAM LIST
 
 
 
-#WAP TO TABLE OF ONE  
-i=1 
-while i<=10:
-	print(i);
-	i=i+1;
+#WAP TO TABLE OF ONE  <br>   
+i=1   <br> 
+while i<=10:  <br> 
+	print(i);  <br> 
+	i=i+1;  <br> 
 
 
 
 
-#WAP TO TABLE OF AMY NO
-n=int(input("Enter any table no=\t"));
-i=1
-while i<=10:
-	print(n,"*",i,"=",i*n);
-	i=i+1
+#WAP TO TABLE OF AMY NO   <br> 
+n=int(input("Enter any table no=\t"));  <br> 
+i=1  <br> 
+while i<=10:  <br> 
+	print(n,"*",i,"=",i*n);  <br> 
+	i=i+1  <br> 
 
 
 
-# wap to print all even no between 1 to N using while loops
-n=int(input("Enter any no =\n"));
-i=1;
-while i<=n:
-	if i%2==0:
-		print("This is even",i);
-	i=i+1;
+# wap to print all even no between 1 to N using while loops  <br> 
+n=int(input("Enter any no =\n"));  <br> 
+i=1;  <br> 
+while i<=n:  <br> 
+	if i%2==0:  <br> 
+		print("This is even",i); <br> 
+	i=i+1;  <br> 
 
 
 
-# wap to  print any no jof factorial
-i=int(input("Enter any no =\n"));
-f=1;
-while i>0:
-	f=f*i;
-	i=i-1;
-print("The factorial value of no is =\t",f);
+# wap to  print any no jof factorial  <br> 
+i=int(input("Enter any no =\n"));  <br> 
+f=1;  <br> 
+while i>0:  <br> 
+	f=f*i;  <br> 
+	i=i-1;  <br>  
+print("The factorial value of no is =\t",f);   <br> 
 	
 
 
-#wap to print digits of integer value in reverse order no to 1
-n=int(input("Enter any int no=\t"))
-i=n;
-while i>=1:
-     print(i);
-     i=i-1;
+#wap to print digits of integer value in reverse order no to 1  <br>
+n=int(input("Enter any int no=\t"));  <br>
+i=n;  <br>
+while i>=1:  <br>
+     print(i);  <br>
+     i=i-1;  <br>
 
 
 
