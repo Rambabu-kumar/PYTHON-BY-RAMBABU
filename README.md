@@ -44,8 +44,8 @@ BASICK PROGRAM LIST IN PYTHON
 #BASICK PROGRAM OF PYTHON
 <hr><hr>
 <
-⭐1
-#WAP TO PRINT HELLO WORLD</b>
+
+# ⭐1		WAP TO PRINT HELLO WORLD</b>
 
 print("hello world")
 
@@ -230,8 +230,8 @@ else:
 
 
 
-⭐4<br>
-#WAP TO CHEACK RESULT ACCORDING TO PERCENT USING IF STATEMENT   <br>
+
+# ⭐4		WAP TO CHEACK RESULT ACCORDING TO PERCENT USING IF STATEMENT   <br>
 p=int(input("Enter student persent=\t\t"));  <br>
 if p<=100 and p>=60:  <br>
 	print("Welcome to next level")  <br>
@@ -396,6 +396,19 @@ while i>=1:  <br>
      print(i);  <br>
      i=i-1; <br>
 <br>
+
+
+
+
+
+# 🔥3=> 		PRINT DIGITS OF INTEGER VALUE IN REVERSE ORDER  <br>
+n=int(input("Enter any no to reverse order=\t"));  <br>
+rev=0; <br>
+org=n;  <br>
+while n>0:  <br>
+        rev=(rev*10)+n%10;  <br>
+        n=n//10;  <br>
+print(rev);  <br>
 
 
 
