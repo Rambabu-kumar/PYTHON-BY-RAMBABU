@@ -400,6 +400,23 @@ while i>=1:  <br>
 
 
 
+# 🔥4=> 		CHECK NUMBER IS PALINDROME OF NOT  <br>
+n=int(input("Enter any no is check no =\t"));<br>
+rev=0;  <br>
+x=n  <br>
+while n>0:  <br>
+    rev=(rev*10)+n%10;  <br>
+    n=n//10;  <br>
+if x==rev:  <br>
+    print("This no is palindrom");  <br>
+else:  <br>
+     print("This no is not palindrom");  <br>
+    
+    
+
+
+
+
 <hr><hr>  <br>
 from turtle import*  <br>
 color("darkred", "aqua")  <br>
