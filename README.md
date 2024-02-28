@@ -63,8 +63,8 @@ print("Mul=",a*b)  <br>
 print("Div=",a/b)  <br>
 print("Mod=",a%b)  <br>
 
-⭐3
-#WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
+
+# ⭐3		WAP INPUR TWO NO AND PRINT ADD,SUB,MUL,DIV AND MOD
  <br><br>
 a=int(input("Enter first no=\n"))  <br>
 b=int(input("Enter second no=\n"))  <br>
@@ -77,16 +77,16 @@ print("Mod=",a%b)  <br>
 
 
 
-<br>⭐4<br>
-#WAP TO PRINT AREA OF RECTANGLE  <br>
+
+# ⭐4		WAP TO PRINT AREA OF RECTANGLE  <br>
 <br>
 h=int(input("Enter rectangle height=\t"))  <br>
 w=int(input("Enter rectangle width=\t"))  <br>
 are=h*w;  <br>
 print("Area of Rectangle=\n",are)  <br>
 
-⭐5<br>
-#WAP TO PRINT AREA OF CIRCLE  <br>
+
+# ⭐5		WAP TO PRINT AREA OF CIRCLE  <br>
 r=int(input("Enter redius of circle=\t"));  <br>
 area=3.14*r*r;  <br>
 print("Area of circle=\n",area)  <br>
@@ -94,8 +94,8 @@ print("Area of circle=\n",area)  <br>
 
 
 
-<b>⭐6<br>
-#WAP TO PRINT AREA OF TRIANGLE </b> <br>
+
+# ⭐6		WAP TO PRINT AREA OF TRIANGLE </b> <br>
 print("WELCOME TO PYTHON");  <br>
 base=int(input("Enter base=\n"))  <br>
 hight=int(input("Enter height"))  <br>
@@ -104,8 +104,8 @@ print("Area of trangal\n=",area)  <br>
 
 
 
-⭐7<br>
-#WAP TO INPUT MARLS OF FIVE SUBJECT LIKE MATH,PHYSICS,CHEMISTRY,EMGLISH,AND FIND AVERAGE  <br>
+
+# ⭐7		WAP TO INPUT MARLS OF FIVE SUBJECT LIKE MATH,PHYSICS,CHEMISTRY,EMGLISH,AND FIND AVERAGE  <br>
 print("WELCOME TO PYTHON")  <br>
 p=int(input("Enter marks of physics =\n"))  <br>
 c=int(input("Enter marks of chemistry =\n"))  <br>
@@ -117,8 +117,8 @@ print("TOTAL MARKS =\t",total)  <br>
 ave=total/5  <br>
 print("AVERAJE MARKS=\t",ave)  <br>
 
-⭐ 8. <br> 
-#WAP TO PRINT SIMPLE INTEREST  <br>
+
+# ⭐ 8		WAP TO PRINT SIMPLE INTEREST  <br>
 p=int(input("Enter Principle=\t"));  <br>
 r=int(input("Enter rate of  interest=\t"));  <br>
 t=int(input("Enter Time=\t"))  <br>
@@ -126,8 +126,8 @@ si=(p*r*t)/100;  <br>
 print("Simple interest=\n",si)  <br>
 
 
-⭐ 9  <br>
-#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 1  <br>
+
+# ⭐9		WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 1  <br>
 a=20  <br>
 b=50  <br>
 print("Before swapping a=\t"a)  <br>
@@ -139,8 +139,8 @@ print("After swapping a=\t",a)  <br>
 print("After swapping b=\t",b)  <br>
 
 
-⭐10  <br>
-#WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 2  <br>
+
+# ⭐10		WAP TO PRINT SWAPPING OF TWO NUMBER USING THIRD VARIABLE METHOD 2  <br>
 a=20  <br>
 b=50  <br>
 print("Before swapping a=20")  <br>
@@ -152,8 +152,8 @@ print("After swapping a=\t",a)  <br>
 print("After swapping b=\t",b)  <br>
 
 
-⭐11  <br>
-#WAP TO PRINT SWAPPING OF TWO NUMBER   WITHOUT THIRD VARIABLE  <br>
+
+# ⭐11		WAP TO PRINT SWAPPING OF TWO NUMBER   WITHOUT THIRD VARIABLE  <br>
 a=20  <br>
 b=50  <br>
 print("Before swapping a=20")  <br>
