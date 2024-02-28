@@ -360,19 +360,42 @@ WHILE LOOP PROGRAM LIST
 
 
 🕯️1=> 		TABLE OF ONE  <br>
-🕯️2=>			TABLE OF ANY NO USING WHILE LOOP
+🕯️2=>			TABLE OF ANY NO USING WHILE LOOP  <br>
 🕯️3=> 		PRINT DIGITS OF INTEGER VALUE IN REVERSE ORDER  <br>
-🕯️4=> 		CHECK NUMBER ID PALINDROME OF NOT  <br>
+🕯️4=> 		CHECK NUMBER IS PALINDROME OF NOT  <br>
 🕯️5=> 		FIND SUM OF DIGITS OF INTEGER VALUE  <br>
 🕯️6=> 		FIND MULTIPLICATION OF DIGITS OF INTEGER VALUE   <br>
 🕯️7=> 		PRINT FIRST AND LAST DIGIT OF INTEGET VALUE 		  <br>
 
 
+# 🔥1=> 		TABLE OF ONE <br>   
+i=1 <br>
+while i<=10: <br>
+	print("1","*",i,"=",i); <br> 
+	i=i+1;  <br>
+
+<br>
+
+
+
+# 🔥2=>			TABLE OF ANY NO USING WHILE LOOP   <br> 
+n=int(input("Enter any table no=\t")); <br>
+i=1  <br>
+while i<=10:  <br>
+	print(n,"*",i,"=",i*n);   <br>
+	i=i+1 <br>
+<br>
 
 
 
 
-
+# 🔥3=> 		PRINT DIGITS OF INTEGER VALUE IN REVERSE ORDER  <br>
+n=int(input("Enter any int no=\t"));  <br>
+i=n;  <br>
+while i>=1:  <br>
+     print(i);  <br>
+     i=i-1; <br>
+<br>
 
 
 
