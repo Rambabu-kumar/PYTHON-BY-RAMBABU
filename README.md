@@ -419,6 +419,20 @@ if x==rev:  <br>
     print("This no is palindrom");  <br>
 else:  <br>
      print("This no is not palindrom");  <br>
+
+
+
+
+
+# 🔥5=> 		FIND SUM OF DIGITS OF INTEGER VALUE  <br>
+n=int(input("Enter any no to reverse order=\t"));  <br>
+sum=0;  <br>
+while n>0:  <br>
+        b=n%10;  <br>
+        sum=sum+b  <br>
+        n=n//10;  <br>
+print(sum);  <br>
+
     
     
 
