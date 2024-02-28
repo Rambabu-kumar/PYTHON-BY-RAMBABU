@@ -51,8 +51,8 @@ print("hello world")
 
 
 
-<b>⭐2
-#WAP TO PRINT ADD SUM MUL DIV AND MOD</b>
+<b>
+# ⭐2		WAP TO PRINT ADD SUM MUL DIV AND MOD</b>
 <br>
 print("WELCOME TO PYTHON ")  <br>
 a=10  <br>
