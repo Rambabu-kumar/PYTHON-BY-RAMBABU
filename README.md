@@ -190,11 +190,11 @@ IF , IF ELSE , NESTED IF
 
 
 <hr><hr>
-#IF ELSE PROGRAM IN PYTHON
+IF ELSE PROGRAM IN PYTHON
 <hr><hr>
 
-⭐1<br>
-#WAP TO PRINT GREATER VALUE IN TWO NO  <br>
+
+# ⭐1		WAP TO PRINT GREATER VALUE IN TWO NO  <br>
 f=int(input("Enter first no=\t"))  <br>
 s=int(input("Enter second no=\t"))  <br>
 if f>s:  <br>
@@ -203,8 +203,8 @@ else:  <br>
 		print("Second no is greater value=\n",s)  <br>
 
 
-⭐2<br>
-#WAP TO PRINT GREATER VALUE IN 3 NO <br>
+
+# ⭐2		WAP TO PRINT GREATER VALUE IN 3 NO <br>
 f=int(input("Enter First no=\t"));  <br>
 s=int(input("Enter Second no=\t"));  <br>
 t=int(input("Enter Third no=\t"));  <br>
@@ -217,8 +217,8 @@ else:  <br>
   <br>
 
 
-⭐3<br>
-#WAP TO CHEACK GIVEN NO IS POSITIVE NEGATIVE OR ZERO
+
+# ⭐3		WAP TO CHEACK GIVEN NO IS POSITIVE NEGATIVE OR ZERO
 n=int(input("Enter any no =\t"));
 if n>0 :
 	print("This no is positive ");
@@ -231,7 +231,7 @@ else:
 
 
 
-# ⭐4		WAP TO CHEACK RESULT ACCORDING TO PERCENT USING IF STATEMENT   <br>
+# ⭐4			WAP TO CHEACK RESULT ACCORDING TO PERCENT USING IF STATEMENT   <br>
 p=int(input("Enter student persent=\t\t"));  <br>
 if p<=100 and p>=60:  <br>
 	print("Welcome to next level")  <br>
@@ -245,8 +245,8 @@ elif p<33:  <br>
 
 
 
-⭐5<br>
-#WAP TO CHEACK ANY NO EVEN OR ODD  <br>
+
+# ⭐5		WAP TO CHEACK ANY NO EVEN OR ODD  <br>
 no=int(input("Enter any no"))  <br>
 if no%2==0:  <br>
 print("This no is even")  <br>
@@ -256,8 +256,8 @@ print("This no is odd")  <br>
 
 
 
-⭐6<br>
-#WAP TO CHECK ANY MAN ELIJIBAL TO VOTING  <br>
+
+# ⭐6		WAP TO CHECK ANY MAN ELIJIBAL TO VOTING  <br>
 age=int(input("Enteryout age=\t\t"));  <br>
 if age>=18:  <br>
 	print("Welcome to voting ")  <br>
@@ -266,8 +266,8 @@ else:  <br>
 
 
 
-⭐7<br>
-#WAP TO CHECK ALPHABET VOWAL OR CONSONENT  <br>
+
+# ⭐7		WAP TO CHECK ALPHABET VOWAL OR CONSONENT  <br>
 c=str(input("ENter any alphabet=\t\t"))  <br>
 if c=='a' or c=='e' or c=='i' or c=='o' or c=='u' :  <br>
 	print("\nThis is vowal")  <br>
@@ -278,8 +278,8 @@ else:  <br>
 <br>
 
 
-⭐8<br>  <br>
-#WA LOGIN PROGRAM  <br>
+
+# ⭐8		WAP LOGIN PROGRAM  <br>
 u1=str(input("Enter user name	=\t"));  <br>
 p1=int(input("Enter password	=\t"));  <br>
 u="rbk";  <br>
@@ -297,8 +297,8 @@ else:  <br>
 <br>
 
 
-⭐9<br>
-#WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER  <br>
+
+# ⭐9		WAP TO CHECK ANY ALPHABET IS UPPER AND LOWER  <br>
 ch=str(input("Enter any alphabet=\t\t"))  <br>
 if ch.isupper() :  <br>
 	print("This is upper ")  <br>
@@ -309,8 +309,8 @@ else:  <br>
 <br>
 
 
-⭐10<br>
-#WAP TO INPUT 3 ANGLE OF TRANGLE AND CHECK TRANGLE VALID OR NOT  <br>
+
+# ⭐10		WAP TO INPUT 3 ANGLE OF TRANGLE AND CHECK TRANGLE VALID OR NOT  <br>
 f=int(input("Enter first angle or trangle=\t\t"));  <br>s=int(input("Enter second angle or trangle=\t\t"));  <br>
 t=int(input("Enter third angle or trangle=\t\t"));  <br>
 total=f+s+t;  <br>
@@ -321,8 +321,8 @@ else:  <br>
   <br>
 
 
-⭐11<br>
-#WAP TO CHECK PROFIT OR LOSS  <br>
+
+# ⭐11		WAP TO CHECK PROFIT OR LOSS  <br>
   <br>
 ap=int(input("Enter actual price	=\t\t"));  <br>
 sp=int(input("Enter sell price	=\t\t"));  <br>
@@ -335,8 +335,8 @@ else:  <br>
 <br>
 
 
-⭐12<br>
-#WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN  <br>
+
+# ⭐12		WAP TO INPUT AGE OF TWO MAN AND CHEACK OLDER MAN  <br>
 ram_age = int(input("Enter Ram's age: "))  <br>
 mohan_age = int(input("Enter Mohan's age: "))  <br>
 
@@ -349,13 +349,8 @@ else:  <br>
 
 
 
-
-⭐13<b
-
-
-
 <hr><hr>
-WHILE LOOP PROGRAM LIST 
+# WHILE LOOP PROGRAM LIST 
 <hr><hr>
 
 
