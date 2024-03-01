@@ -436,7 +436,15 @@ print(sum);  <br>
     
     
 
-
+# 6		WAP TO PATTERN IN PROGRAM using while loop  <br>
+i=1;  <br>
+while i<=5:  <br>
+     j=1;  <br>
+     while j<=i:  <br>
+          print("*",end=" ");  <br>
+          j=j+1;  <br>
+     print()  <br>
+     i=i+1;  <br>
 
 
 <hr><hr>  <br>
