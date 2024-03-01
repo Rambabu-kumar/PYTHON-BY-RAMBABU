@@ -447,6 +447,19 @@ while i<=5:  <br>
      i=i+1;  <br>
 
 
+
+
+
+# 7		WAP TO PATTERN IN PROGRAM using while loop  <br>
+i=1;  <br>
+while i<=5:  <br>
+     j=1;   <br>  <br>
+     while j<=i:  <br>
+          print(i,end=" ");  <br>
+          j=j+1;  <br>
+     print()  <br>
+     i=i+1;  <br>
+
 <hr><hr>  <br>
 from turtle import*  <br>
 color("darkred", "aqua")  <br>
