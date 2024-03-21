@@ -194,6 +194,19 @@ IF ELSE PROGRAM IN PYTHON
 <hr><hr>
 
 
+
+
+
+#  wap to check any no is prime or not 
+num=int(input("Enter any no:-"));
+for i in range (2,num):
+     if num%i==0:
+          print("This no is not prime",num)
+          break
+else:
+     print("This no is prime",num)
+
+
 # ⭐1		WAP TO PRINT GREATER VALUE IN TWO NO  <br>
 f=int(input("Enter first no=\t"))  <br>
 s=int(input("Enter second no=\t"))  <br>
